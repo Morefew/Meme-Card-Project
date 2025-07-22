@@ -1,7 +1,3 @@
-You're right! It's crucial not to assume prior knowledge, especially in a beginner-focused guide. Let's define some key terms and ideas that are central to the "Meme Card Project" and the broader Git/GitHub workflow.
-
----
-
 ## Glossary of Terms and Ideas 📖
 
 ### **Card (Meme Card)**
