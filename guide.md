@@ -8,7 +8,25 @@ Welcome to the **Git & GitHub Collaborative Meme Card Project**! This project is
 
 ## Who is This For?
 
-This project is ideal for **beginners** who want to understand how programmers collaborate on code using Git and GitHub.
+Let's see how well you use GIT and GitHub collaboratively?
+
+Level 1: Beginner
+- I can clone repositories (git clone), make changes, and push them with git add, git commit, and git push.
+- I can create files and folders, but I don't usually work with branches or resolve conflicts.
+- I primarily work in my own repository or on the main branch.
+
+Level 2: Intermediate
+- I work with branches (git branch, git checkout, git merge) and make pull requests on GitHub.
+- I can update my branch with changes from the remote repository using git pull and resolve simple conflicts.
+- I participate in code reviews, assign issues, and use comments to collaborate.
+
+Level 3: Advanced
+
+- I can handle collaborative workflows such as fork & pull requests, interactive rebases (git rebase -i), cherry-picking, and squash merges.
+- I resolve complex conflicts and maintain remote and local branches (Git remote, Git fetch, and Git prune).
+- I automate processes with GitHub Actions, manage releases, and participate in repository administration.
+
+This project is open to anyone who wants to participate but is ideal for level 1 developers who want to understand how programmers collaborate on code using Git and GitHub.
 
 ### Prerequisites:
 
