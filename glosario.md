@@ -1,7 +1,3 @@
-¡Tienes razón! Es fundamental no dar por sentados conocimientos previos, especialmente en una guía para principiantes. Definamos algunos términos e ideas clave que son fundamentales para el "Proyecto de Tarjetas Meme" y el flujo de trabajo más amplio de Git/GitHub.
-
----
-
 ## Glosario de Términos e Ideas 📖
 
 ### **Tarjeta (Tarjeta Meme)**
